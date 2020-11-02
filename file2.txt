@@ -1,4 +1,5 @@
 Welcome
+<<<<<<< HEAD
 
 
 Changing Central.
@@ -6,3 +7,7 @@ Changing Central.
 
 
 
+=======
+Changing local repo.
+For fetch.
+>>>>>>> 6ba68ba (Changing local fo rfetch)
