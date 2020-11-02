@@ -4,7 +4,7 @@ for work item 1.
 change 1 - for bug1
 change 2 - for bug2
 change 3 - for conflict
-
+Change by team mate in rebase example.
 change 1" :Bug1 fix.
 change 2 ":Bug2 fix.
 
