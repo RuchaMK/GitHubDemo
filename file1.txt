@@ -1,2 +1,5 @@
 Login feature..
 for work item 1.
+change 1 - for bug1
+change 2 - for bug2
+change 3 - for conflict
